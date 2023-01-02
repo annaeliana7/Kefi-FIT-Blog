@@ -1,0 +1,179 @@
+@import url('https://font.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600&display=swap');
+
+* {
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+}
+
+nav a {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  margin-right: 20px;
+  background-color: #333;
+  padding: 15px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav a:hover {
+  background-color: #bd18b4;
+}
+
+.nav-container {
+  display: flex;
+}
+
+.kefi-log {
+  margin-right: auto;
+  width: 150px;
+  margin-left: 12px;
+}
+
+.blog {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 15px;
+}
+
+.box {
+  width: 30%;
+  margin: 10px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 3.5rem;
+  text-transform: capitalize;
+  color: #333;
+  background-color: rgb(196, 180, 212);
+  padding: 33px;
+}
+
+p {
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+@media (max-width: 500px) {
+  .box {
+    width: 100%;
+  }
+}
+
+.box .image {
+  position: relative;
+}
+
+.box .image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.box .image h3 {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: #bd18b4;
+  font-size: 2em;
+}
+
+.box .content h3 {
+  margin: 20px 0 10px;
+  font-size: 1.5em;
+}
+
+.box .content p {
+  margin-bottom: 20px;
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+.box .content a.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #bd18b4;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.2s;
+}
+
+.box .content a.btn:hover {
+  background-color: #a41098;
+}
+
+@media (max-width: 768px) {
+  .box {
+    width: calc(50% - 20px);
+  }
+}
+
+@media (max-width: 480px) {
+  .box {
+    width: 100%;
+  }
+}
+
+.btn {
+  display: inline-block;
+  margin: 0 auto;
+  width: 100px;
+  padding: 0.8rem 2rem;
+  font-size: 1.2rem;
+  text-decoration: none;
+  border: 0.1rem solid #bd18b4;
+  background: #fef;
+  color: #bd18b4;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+.btn:hover {
+  background-color: #bd18b4;
+  color: #fef;
+}
+
+.content {
+  padding-top: 15px;
+}
+
+.anna-cartoon {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  border-bottom: rgb(196, 180, 212) solid 25px;
+}
+
+/* background-color: rgba(196, 180, 212, 0.064) */
+.image-quote {
+  background-color: rgba(173, 216, 230, 0.347);
+  padding-top: 15px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+  letter-spacing: 2px;
+}
