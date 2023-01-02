@@ -46,10 +46,8 @@
 <br>
 
 ## 🛠 Built With <a name="built-with"></a>
-    Webpack
     HTML
     CSS
-    Javascript (ES6)
     Linters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -62,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[To-Do List](https://ADD LINK.git)
+[Kefi Fit Blog](https://annaeliana7.github.io/Kefi-FIT/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
