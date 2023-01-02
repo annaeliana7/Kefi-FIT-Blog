@@ -39,7 +39,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 NAME OF PROJECT<a name="about-project"></a>
+# 📖 KEFI FIT BLOG<a name="about-project"></a>
 
 **ToDo List** is a project ...complete sentence
 
@@ -60,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Kefi Fit Blog](https://annaeliana7.github.io/Kefi-FIT/)
+[Kefi Fit Blog](https://annaeliana7.github.io/Kefi-FIT-Blog/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
