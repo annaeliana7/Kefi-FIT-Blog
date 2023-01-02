@@ -6,6 +6,7 @@
     <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
   <br/>
 💜
+
   <h3><b>Personal README Template</b></h3>
   <br/>
   
@@ -41,7 +42,7 @@
 
 # 📖 KEFI FIT BLOG<a name="about-project"></a>
 
-**ToDo List** is a project ...complete sentence
+**KEFI FIT BLOG** is a website designed to showcase health and fitness content. It was created using HTML and CSS to practice building web pages using these coding languages. The project focused on creating a functional and visually appealing blog layout.
 
 <br>
 
@@ -49,12 +50,14 @@
     HTML
     CSS
     Linters
+    Visual Studio
+    Published with GitHub
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Demo Image
 <br>
-<img align="center" src="project_demo.png" alt="logo" width="100%"  height="auto" />
+<img align="center" src="project_demo.png" alt="logo" width="66%"  height="auto" />
 
   <br/>
 
@@ -71,9 +74,9 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/ADD LINK.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/Kefi-FIT-Blog.git`
 
-- Go to the repository folder using command prompt cd `NAME OF PROJECT`
+- Go to the repository folder using command prompt cd `KEFI FIT BLOG`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -94,9 +97,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://ADD LINK.git
+- On the terminal run this command git clone https://github.com/annaeliana7/Kefi-FIT-Blog.git
 
-- Go to the repository folder using command prompt cd NAME-OF-FILE
+- Go to the repository folder using command prompt cd KEFI-FIT-BLOG
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -117,9 +120,7 @@ Anna Petras
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Implement some UX improvements: added transitions and/or animation.
-
-- Implement additional pages.
+- Implement some UX improvements
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +129,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://ADD LINK.git).
+Feel free to check the [issues page](https://github.com/annaeliana7/Kefi-FIT-Blog/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
